@@ -37,7 +37,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. -->
 
-This is my own sneaker e-commerce project that includes MongoDB, Next.js features, Tailwind. 
+This is my own sneaker e-commerce project that includes MongoDB, Next.js features, Tailwind.
 
 ## Getting Started
 
@@ -51,7 +51,8 @@ yarn dev
 pnpm dev
 ```
 
-Open https://solekachi.com/ with the browser to see the result. 
+Open https://solekachi.com/ with the browser to see the result.
 
 ## Deploy on Vercel
-Deployed on Vercel with https://next-js-ecommerce072523.vercel.app
+
+Deployed on Vercel with https://group-deployment.vercel.app/
